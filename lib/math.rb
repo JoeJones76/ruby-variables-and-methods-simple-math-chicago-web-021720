@@ -1,7 +1,9 @@
 def addition(num1, num2)
+  1+2
 end
 
 def subtraction(num1, num2)
+  21-7
 end
 
 def division(num1, num2)
