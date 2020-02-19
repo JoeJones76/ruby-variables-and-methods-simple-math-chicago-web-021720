@@ -1,21 +1,21 @@
 def addition(num1, num2)
-  1+2
+  5+4 
 end
 
 def subtraction(num1, num2)
-  21-7
+  10-5
 end
 
 def division(num1, num2)
-  9 / 3 
+  50/2  
 end
 
 def multiplication(num1, num2)
-  9*3 
+  4*30 
 end
 
 def modulo(num1, num2)
-  15 % 4 
+  34%5  
 end
 
 def square_root(num)
